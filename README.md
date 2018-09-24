@@ -16,7 +16,7 @@ and build!
 
 ## How 2 Run
 
-Make sure richard is executable (if on linux)
+Make sure richard is executable (if on gnu/linux)
 
 ```chmod +x richard```
 
